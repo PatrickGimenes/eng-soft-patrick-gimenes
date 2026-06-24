@@ -8,7 +8,7 @@ Antes de tomar a decisão, vamos apontar os riscos de cada escolha.
 
 Ao adicionar um ser humano à equação, a ferramenta acaba perdendo parte do seu principal diferencial, que é automatizar todo o processo de contratação.
 
-Além disso, ao gerar retrabalho na revisão dos últimos 20% dos candidatos — que, em uma vaga para desenvolvedor em uma empresa de grande porte, podem chegar a 3000 aplicações por vaga (referência: https://newsletter.pragmaticengineer.com/p/state-of-the-tech-market-in-2025-hiring-managers) — isso resultaria em aproximadamente 600 perfis para reanálise, além dos candidatos já selecionados pela IA.
+Além disso, ao gerar retrabalho na revisão dos últimos 20% dos candidatos - que, em uma vaga para desenvolvedor em uma empresa de grande porte, podem chegar a 3000 aplicações por vaga (referência: https://newsletter.pragmaticengineer.com/p/state-of-the-tech-market-in-2025-hiring-managers) - isso resultaria em aproximadamente 600 perfis para reanálise, além dos candidatos já selecionados pela IA.
 
 Esse retrabalho pode afastar grandes empresas, gerar perda de competitividade e favorecer concorrentes. Ainda assim, existe o risco de candidatos serem desclassificados por viés.
 
